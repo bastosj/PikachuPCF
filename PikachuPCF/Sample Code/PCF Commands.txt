@@ -1,0 +1,14 @@
+*CREATES PCF Control* *Various templates available*
+pac pcf init --namespace BastosPCF --name MyFirstPCF --template field
+
+*CREATES CDS SOLUTION*
+pac solution init -pn BastosPublisher -pp pcfb
+
+*ADD REFERENCE TOWARDS PATH WHERE YOUR CONTROLS ARE STORED
+pac solution add-reference --path ../Solutions/
+
+*ONE TIME USE TO SAVE BUILD CONFIGURATIONS
+msbuild /t:build /restore
+
+*NORMAL BUILD AFTER FIRST TIME*
+msbuild

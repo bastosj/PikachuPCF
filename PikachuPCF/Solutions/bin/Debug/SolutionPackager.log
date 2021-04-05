@@ -1,0 +1,19 @@
+2020-11-23 12:07:41.539 - Info	
+Packing c:\Users\bastosj\Desktop\PikachuPCF\Solutions\obj\Debug\Metadata to bin\Debug\Solutions.zip
+
+2020-11-23 12:07:41.660 - Info	Processing Component: Entities
+2020-11-23 12:07:41.670 - Info	Processing Component: Roles
+2020-11-23 12:07:41.690 - Info	Processing Component: Workflows
+2020-11-23 12:07:41.690 - Info	Processing Component: FieldSecurityProfiles
+2020-11-23 12:07:41.690 - Info	Processing Component: Templates
+2020-11-23 12:07:41.700 - Info	Processing Component: EntityMaps
+2020-11-23 12:07:41.700 - Info	Processing Component: EntityRelationships
+2020-11-23 12:07:41.728 - Info	Processing Component: OrganizationSettings
+2020-11-23 12:07:41.729 - Info	Processing Component: optionsets
+2020-11-23 12:07:41.729 - Info	Processing Component: CustomControls
+2020-11-23 12:07:41.870 - Info	 - PikachuNamespace.PikachuPCF
+2020-11-23 12:07:42.120 - Info	Processing Component: SolutionPluginAssemblies
+2020-11-23 12:07:42.120 - Info	Processing Component: EntityDataProviders
+2020-11-23 12:07:42.560 - Info	
+Unmanaged Pack complete.
+

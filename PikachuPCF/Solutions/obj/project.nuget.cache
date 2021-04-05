@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "lg4DHC880HbonR4Z0kuXH0kt0hetQ1dCwuzAOhKFbSJb9+MIJHrOrrHS/oObbpdIo5AwOzRnXmL3IsdtBScHAw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\bastosj\\Desktop\\PikachuPCF\\Solutions\\Solutions.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bastosj\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.4.4\\microsoft.powerapps.msbuild.pcf.1.4.4.nupkg.sha512",
+    "C:\\Users\\bastosj\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.4.4\\microsoft.powerapps.msbuild.solution.1.4.4.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,2 @@
+C:\Users\bastosj\Desktop\PikachuPCF\Controls\obj\Debug\PikachuPCF.pcfprojAssemblyReference.cache
+C:\Users\bastosj\Desktop\PikachuPCF\Controls\obj\Debug\PikachuPCF.pcfproj.CoreCompileInputs.cache
